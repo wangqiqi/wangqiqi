@@ -68,6 +68,35 @@
 
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wangqiqi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+<div align='center'>
+<a href="https://github.com/wangqiqi/rk3588_yolov5_deploy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=rk3588_yolov5_deploy&theme=buefy" />
+</a>
+<a href="https://github.com/wangqiqi/baidu-top-crawler">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=baidu-top-crawler&theme=buefy" />
+</a>
+</div>
+
+<div align='center'>
+<a href="https://github.com/wangqiqi/opencv-python-tutorial">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=opencv-python-tutorial&theme=buefy" />
+</a>
+<a href="https://github.com/wangqiqi/wangqiqi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=wangqiqi&theme=buefy" />
+</a>
+</div>
+
+<div align='center'>
+<a href="https://github.com/wangqiqi/face_mask">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=face_mask&theme=buefy" />
+</a>
+<a href="https://github.com/wangqiqi/scan-effect">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=scan-effect&theme=buefy" />
+</a>
+</div>
+
 ## 🏆 GitHub Trophies
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=wangqiqi&theme=onedark&column=7)
