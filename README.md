@@ -34,14 +34,6 @@
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
 </p>
 
-<p align="center">
-  <img src="https://progress-bar.dev/90/?title=Python&width=200&color=3776AB" width="300">
-  <img src="https://progress-bar.dev/85/?title=OpenCV&width=200&color=5C3EE8" width="300">
-  <img src="https://progress-bar.dev/80/?title=MediaPipe&width=200&color=0F9D58" width="300">
-  <img src="https://progress-bar.dev/75/?title=TensorFlow&width=200&color=FF6F00" width="300">
-  <img src="https://progress-bar.dev/70/?title=PyTorch&width=200&color=EE4C2C" width="300">
-</p>
-
 ## 🏆 Project Milestones
 
 - 🔍 **Face Mask Application**: 实时人脸面具应用
@@ -133,7 +125,7 @@
 <p align="center">
   <a href="https://github.com/wangqiqi"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
   <a href="mailto:zhou24388@163.com"><img src="https://img.icons8.com/bubbles/50/000000/new-post.png" alt="Email"/></a>
-  <a href="https://blog.csdn.net/zhoujinwang"><img src="https://img.icons8.com/bubbles/50/000000/blogger.png" alt="Blog"/></a>
+  <a href="https://blog.csdn.net/zhoujinwang"><img src="https://img-home.csdnimg.cn/images/20201124032511.png" alt="Blog"/></a>
 </p>
 
 <h3 align="center">WeChat: znzatop</h3>
