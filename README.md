@@ -56,11 +56,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=virtual_drag_scale&theme=buefy" />
 </a>
 
-## ⏱️ Coding Time Stats
-
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wangqiqi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 <div align='center'>
 <a href="https://github.com/wangqiqi/rk3588_yolov5_deploy">
