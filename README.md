@@ -185,11 +185,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [扫描线效果：创建令人惊叹的视频过渡效果](https://blog.csdn.net/zhoujinwang/article/details/137058123)
-- [markdown转docx](https://blog.csdn.net/zhoujinwang/article/details/137058122)
-- [基于手势识别的音量控制系统](https://blog.csdn.net/zhoujinwang/article/details/137058121)
-- [基于手势识别的虚拟拖拽系统](https://blog.csdn.net/zhoujinwang/article/details/137058120)
-- [ubuntu-jetson上的定时任务](https://blog.csdn.net/zhoujinwang/article/details/137058119)
+- [扫描线效果：创建令人惊叹的视频过渡效果](https://blog.csdn.net/zhoujinwang/article/details/146211005)
+- [markdown转docx](https://blog.csdn.net/zhoujinwang/article/details/146189260)
+- [【基于手势识别的音量控制系统】](https://blog.csdn.net/zhoujinwang/article/details/146054214)
+- [【基于手势识别的虚拟拖拽系统】](https://blog.csdn.net/zhoujinwang/article/details/146053977)
+- [【环境配置】ubuntu-jetson上的定时任务](https://blog.csdn.net/zhoujinwang/article/details/143891324)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More Blog Posts...](https://blog.csdn.net/zhoujinwang)
