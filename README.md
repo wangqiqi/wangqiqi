@@ -38,28 +38,12 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
 </p>
 
-<p align="center">
-  <img src="https://progress-bar.dev/100/?title=Python&width=200&color=3776AB" width="300">
-  <img src="https://progress-bar.dev/100/?title=OpenCV&width=200&color=5C3EE8" width="300">
-  <img src="https://progress-bar.dev/100/?title=MediaPipe&width=200&color=0F9D58" width="300">
-  <img src="https://progress-bar.dev/100/?title=NumPy&width=200&color=013243" width="300">
-  <img src="https://progress-bar.dev/80/?title=PyTorch&width=200&color=EE4C2C" width="300">
-  <img src="https://progress-bar.dev/74/?title=C++&width=200&color=00599C" width="300">
-  <img src="https://progress-bar.dev/71/?title=Jupyter&width=200&color=F37626" width="300">
-  <img src="https://progress-bar.dev/70/?title=TensorFlow&width=200&color=FF6F00" width="300">
-  <img src="https://progress-bar.dev/52/?title=JavaScript&width=200&color=F7DF1E" width="300">
-</p>
-
 ## 🏆 Project Milestones
 
 - 🔍 **Face Mask Application**: 实时人脸面具应用
 - 📊 **Hand Gesture Volume Control**: 手势音量控制系统
 - 🎬 **Scan Effect Generator**: 扫描线效果生成器
 - 🖱️ **Virtual Drag and Drop**: 虚拟拖放与缩放应用
-
-
-
-
 
 ## 📌 Featured Projects
 
@@ -102,11 +86,13 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [【π日庆祝】python mediapipe](https://blog.csdn.net/zhoujinwang/article/details/146267237)
 - [扫描线效果：创建令人惊叹的视频过渡效果](https://blog.csdn.net/zhoujinwang/article/details/146211005)
 - [markdown转docx](https://blog.csdn.net/zhoujinwang/article/details/146189260)
 - [【基于手势识别的音量控制系统】](https://blog.csdn.net/zhoujinwang/article/details/146054214)
 - [【基于手势识别的虚拟拖拽系统】](https://blog.csdn.net/zhoujinwang/article/details/146053977)
+
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More Blog Posts...](https://blog.csdn.net/zhoujinwang)
@@ -114,6 +100,7 @@
 ## 🔄 Recent Activity
 
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
 
 ## 📈 Contribution Graph
