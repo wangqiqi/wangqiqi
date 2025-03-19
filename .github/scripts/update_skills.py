@@ -9,7 +9,7 @@ from collections import Counter
 USERNAME = "wangqiqi"  # 替换为您的GitHub用户名
 README_PATH = "README.md"
 SKILLS_SECTION_START = "## 🔧 Skills"
-SKILLS_SECTION_END = "## 📌 Featured Projects"
+SKILLS_SECTION_END = "## 🏆 Project Milestones"
 
 # 技能映射（GitHub语言 -> 技能名称和颜色）
 SKILL_MAPPING = {
@@ -129,8 +129,8 @@ with open(README_PATH, "r", encoding="utf-8") as f:
     readme_content = f.read()
 
 # 使用正则表达式替换技能部分
-pattern = f"({SKILLS_SECTION_START}.*?){SKILLS_SECTION_END}"
-replacement = f"\\1\n\n{skills_html}\n\n{SKILLS_SECTION_END}"
+pattern = f"{re.escape(SKILLS_SECTION_START)}(.*?){re.escape(SKILLS_SECTION_END)}"
+replacement = f"{SKILLS_SECTION_START}\n\n{skills_html}\n\n{SKILLS_SECTION_END}"
 new_readme = re.sub(pattern, replacement, readme_content, flags=re.DOTALL)
 
 # 写回README文件

@@ -46,8 +46,9 @@ with open(README_PATH, "r", encoding="utf-8") as f:
     readme_content = f.read()
 
 # 使用正则表达式替换仓库部分
-pattern = f"({REPO_SECTION_START}.*?){REPO_SECTION_END}"
-replacement = f"\\1\n\n{repo_cards}{REPO_SECTION_END}"
+# 修改正则表达式以精确匹配需要替换的部分
+pattern = f"{re.escape(REPO_SECTION_START)}(.*?){re.escape(REPO_SECTION_END)}"
+replacement = f"{REPO_SECTION_START}\n\n{repo_cards}{REPO_SECTION_END}"
 new_readme = re.sub(pattern, replacement, readme_content, flags=re.DOTALL)
 
 # 写回README文件
