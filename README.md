@@ -30,9 +30,13 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
   <img src="https://img.shields.io/badge/-MediaPipe-0F9D58?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe">
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
@@ -40,13 +44,29 @@
 
 <p align="center">
   <img src="https://progress-bar.dev/100/?title=Python&width=200&color=3776AB" width="300">
+</p>
+<p align="center">
   <img src="https://progress-bar.dev/100/?title=OpenCV&width=200&color=5C3EE8" width="300">
+</p>
+<p align="center">
   <img src="https://progress-bar.dev/100/?title=MediaPipe&width=200&color=0F9D58" width="300">
+</p>
+<p align="center">
   <img src="https://progress-bar.dev/100/?title=NumPy&width=200&color=013243" width="300">
+</p>
+<p align="center">
   <img src="https://progress-bar.dev/80/?title=PyTorch&width=200&color=EE4C2C" width="300">
+</p>
+<p align="center">
   <img src="https://progress-bar.dev/74/?title=C++&width=200&color=00599C" width="300">
+</p>
+<p align="center">
   <img src="https://progress-bar.dev/71/?title=Jupyter&width=200&color=F37626" width="300">
+</p>
+<p align="center">
   <img src="https://progress-bar.dev/70/?title=TensorFlow&width=200&color=FF6F00" width="300">
+</p>
+<p align="center">
   <img src="https://progress-bar.dev/52/?title=JavaScript&width=200&color=F7DF1E" width="300">
 </p>
 
