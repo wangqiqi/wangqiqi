@@ -100,8 +100,6 @@
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=wangqiqi&theme=onedark&column=7)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=wangqiqi&theme=dark)
-
 ## 📊 GitHub Stats
 
 ![wangqiqi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wangqiqi&show_icons=true&theme=radical)
