@@ -10,6 +10,7 @@ USERNAME = "wangqiqi"  # 替换为您的GitHub用户名
 README_PATH = "README.md"
 SKILLS_SECTION_START = "## 🔧 Skills"
 SKILLS_SECTION_END = "## 🏆 Project Milestones"
+FEATURED_PROJECTS_START = "## 📌 Featured Projects"
 
 # 技能映射（GitHub语言 -> 技能名称和颜色）
 SKILL_MAPPING = {
@@ -133,8 +134,19 @@ pattern = f"{re.escape(SKILLS_SECTION_START)}(.*?){re.escape(SKILLS_SECTION_END)
 replacement = f"{SKILLS_SECTION_START}\n\n{skills_html}\n\n{SKILLS_SECTION_END}"
 new_readme = re.sub(pattern, replacement, readme_content, flags=re.DOTALL)
 
+# 清除Project Milestones后面可能出现的重复技能卡片
+milestones_pattern = f"{re.escape(SKILLS_SECTION_END)}(.*?){re.escape(FEATURED_PROJECTS_START)}"
+milestones_match = re.search(milestones_pattern, new_readme, flags=re.DOTALL)
+
+if milestones_match:
+    milestones_content = milestones_match.group(1)
+    # 保留Project Milestones内容，但移除其后的技能卡片
+    clean_milestones = re.sub(r'<p align="center">\s*<img src="https://img\.shields\.io/badge/.*?</p>\s*<p align="center">.*?</p>', '', milestones_content, flags=re.DOTALL)
+    # 替换回README中
+    new_readme = re.sub(milestones_pattern, f"{SKILLS_SECTION_END}{clean_milestones}{FEATURED_PROJECTS_START}", new_readme, flags=re.DOTALL)
+
 # 写回README文件
 with open(README_PATH, "w", encoding="utf-8") as f:
     f.write(new_readme)
 
-print(f"已更新README.md，添加了{len(sorted_skills)}个技能。") 
+print(f"已更新README.md，添加了{len(sorted_skills)}个技能，并移除了重复的技能卡片。") 
