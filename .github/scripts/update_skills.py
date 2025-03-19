@@ -110,17 +110,18 @@ for framework, count in frameworks.items():
 # 按得分排序
 sorted_skills = sorted(all_skills.values(), key=lambda x: x["score"], reverse=True)
 
-# 生成技能徽章HTML
+# 生成技能徽章HTML - 每行只显示3个徽章
 badges_html = "<p align=\"center\">\n"
-for skill in sorted_skills:
+for i, skill in enumerate(sorted_skills):
+    if i > 0 and i % 3 == 0:
+        badges_html += "</p>\n<p align=\"center\">\n"
     badges_html += f"  <img src=\"https://img.shields.io/badge/-{skill['name']}-{skill['color']}?style=for-the-badge&logo={skill['logo']}&logoColor=white\" alt=\"{skill['name']}\">\n"
 badges_html += "</p>\n\n"
 
-# 生成技能进度条HTML
-progress_html = "<p align=\"center\">\n"
+# 生成技能进度条HTML - 每行只显示1个进度条
+progress_html = ""
 for skill in sorted_skills:
-    progress_html += f"  <img src=\"https://progress-bar.dev/{skill['score']}/?title={skill['name']}&width=200&color={skill['color']}\" width=\"300\">\n"
-progress_html += "</p>"
+    progress_html += f"<p align=\"center\">\n  <img src=\"https://progress-bar.dev/{skill['score']}/?title={skill['name']}&width=200&color={skill['color']}\" width=\"300\">\n</p>\n"
 
 # 组合HTML
 skills_html = badges_html + progress_html
@@ -131,7 +132,7 @@ with open(README_PATH, "r", encoding="utf-8") as f:
 
 # 使用正则表达式替换技能部分
 pattern = f"{re.escape(SKILLS_SECTION_START)}(.*?){re.escape(SKILLS_SECTION_END)}"
-replacement = f"{SKILLS_SECTION_START}\n\n{skills_html}\n\n{SKILLS_SECTION_END}"
+replacement = f"{SKILLS_SECTION_START}\n\n{skills_html}\n{SKILLS_SECTION_END}"
 new_readme = re.sub(pattern, replacement, readme_content, flags=re.DOTALL)
 
 # 清除Project Milestones后面可能出现的重复技能卡片
