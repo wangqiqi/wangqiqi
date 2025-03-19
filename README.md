@@ -30,23 +30,6 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
   <img src="https://img.shields.io/badge/-MediaPipe-0F9D58?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe">
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-</p>
-
-## 🏆 Project Milestones
-
-- 🔍 **Face Mask Application**: 实时人脸面具应用
-- 📊 **Hand Gesture Volume Control**: 手势音量控制系统
-- 🎬 **Scan Effect Generator**: 扫描线效果生成器
-- 🖱️ **Virtual Drag and Drop**: 虚拟拖放与缩放应用
-
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
-  <img src="https://img.shields.io/badge/-MediaPipe-0F9D58?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe">
   <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
@@ -66,6 +49,17 @@
   <img src="https://progress-bar.dev/70/?title=TensorFlow&width=200&color=FF6F00" width="300">
   <img src="https://progress-bar.dev/52/?title=JavaScript&width=200&color=F7DF1E" width="300">
 </p>
+
+## 🏆 Project Milestones
+
+- 🔍 **Face Mask Application**: 实时人脸面具应用
+- 📊 **Hand Gesture Volume Control**: 手势音量控制系统
+- 🎬 **Scan Effect Generator**: 扫描线效果生成器
+- 🖱️ **Virtual Drag and Drop**: 虚拟拖放与缩放应用
+
+
+
+
 
 ## 📌 Featured Projects
 
