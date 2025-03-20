@@ -64,14 +64,14 @@
 <a href="https://github.com/wangqiqi/opencv-python-tutorial">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=opencv-python-tutorial&theme=buefy" />
 </a>
-<a href="https://github.com/wangqiqi/wangqiqi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=wangqiqi&theme=buefy" />
+<a href="https://github.com/wangqiqi/github-trend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=github-trend&theme=buefy" />
 </a>
 </div>
 
 <div align='center'>
-<a href="https://github.com/wangqiqi/github-trend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=github-trend&theme=buefy" />
+<a href="https://github.com/wangqiqi/wangqiqi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=wangqiqi&theme=buefy" />
 </a>
 <a href="https://github.com/wangqiqi/ar_pi_tattoo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=ar_pi_tattoo&theme=buefy" />
