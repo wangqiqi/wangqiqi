@@ -90,11 +90,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [【python-opencv-mediapipe】眼睛杀死315黑心商家](https://blog.csdn.net/zhoujinwang/article/details/146407083)
 - [【π日庆祝】python mediapipe](https://blog.csdn.net/zhoujinwang/article/details/146267237)
 - [扫描线效果：创建令人惊叹的视频过渡效果](https://blog.csdn.net/zhoujinwang/article/details/146211005)
 - [markdown转docx](https://blog.csdn.net/zhoujinwang/article/details/146189260)
 - [【基于手势识别的音量控制系统】](https://blog.csdn.net/zhoujinwang/article/details/146054214)
-- [【基于手势识别的虚拟拖拽系统】](https://blog.csdn.net/zhoujinwang/article/details/146053977)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More Blog Posts...](https://blog.csdn.net/zhoujinwang)
