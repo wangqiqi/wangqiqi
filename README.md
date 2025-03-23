@@ -39,52 +39,17 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
-<p align="center">
-  <img src="https://progress-bar.dev/100/?title=Python&width=200&color=3776AB" width="300">
-</p>
-<p align="center">
-  <img src="https://progress-bar.dev/100/?title=OpenCV&width=200&color=5C3EE8" width="300">
-</p>
-<p align="center">
-  <img src="https://progress-bar.dev/100/?title=MediaPipe&width=200&color=0F9D58" width="300">
-</p>
-<p align="center">
-  <img src="https://progress-bar.dev/100/?title=NumPy&width=200&color=013243" width="300">
-</p>
-<p align="center">
-  <img src="https://progress-bar.dev/80/?title=PyTorch&width=200&color=EE4C2C" width="300">
-</p>
-<p align="center">
-  <img src="https://progress-bar.dev/74/?title=C++&width=200&color=00599C" width="300">
-</p>
-<p align="center">
-  <img src="https://progress-bar.dev/70/?title=Jupyter&width=200&color=F37626" width="300">
-</p>
-<p align="center">
-  <img src="https://progress-bar.dev/70/?title=TensorFlow&width=200&color=FF6F00" width="300">
-</p>
-<p align="center">
-  <img src="https://progress-bar.dev/52/?title=JavaScript&width=200&color=F7DF1E" width="300">
-</p>
-
-## 🏆 Project Milestones
-
-- 🔍 **Face Mask Application**: 实时人脸面具应用
-- 📊 **Hand Gesture Volume Control**: 手势音量控制系统
-- 🎬 **Scan Effect Generator**: 扫描线效果生成器
-- 🖱️ **Virtual Drag and Drop**: 虚拟拖放与缩放应用
-
-## 📌 Featured Projects
+## 🚀 Latest Projects
 
 <div align='center'>
-<a href="https://github.com/wangqiqi/rk3588_yolov5_deploy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=rk3588_yolov5_deploy&theme=buefy" />
+<a href="https://github.com/wangqiqi/gaze_laser_game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=gaze_laser_game&theme=buefy" />
 </a>
-<a href="https://github.com/wangqiqi/baidu-top-crawler">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=baidu-top-crawler&theme=buefy" />
+<a href="https://github.com/wangqiqi/gesture-snake">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=gesture-snake&theme=buefy" />
 </a>
 </div>
 
@@ -92,14 +57,32 @@
 <a href="https://github.com/wangqiqi/ar_pi_tattoo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=ar_pi_tattoo&theme=buefy" />
 </a>
-<a href="https://github.com/wangqiqi/opencv-python-tutorial">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=opencv-python-tutorial&theme=buefy" />
+<a href="https://github.com/wangqiqi/head-racing-game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=head-racing-game&theme=buefy" />
 </a>
 </div>
 
 <div align='center'>
-<a href="https://github.com/wangqiqi/github-trend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=github-trend&theme=buefy" />
+<a href="https://github.com/wangqiqi/face_mask">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=face_mask&theme=buefy" />
+</a>
+<a href="https://github.com/wangqiqi/scan-effect">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=scan-effect&theme=buefy" />
+</a>
+</div>
+
+<div align='center'>
+<a href="https://github.com/wangqiqi/hand_control_vol">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=hand_control_vol&theme=buefy" />
+</a>
+<a href="https://github.com/wangqiqi/virtual_drag_scale">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=virtual_drag_scale&theme=buefy" />
+</a>
+</div>
+
+<div align='center'>
+<a href="https://github.com/wangqiqi/interesting_assets">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=interesting_assets&theme=buefy" />
 </a>
 <a href="https://github.com/wangqiqi/wangqiqi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=wangqiqi&theme=buefy" />
