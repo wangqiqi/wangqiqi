@@ -124,7 +124,7 @@
 <div align="center">
   <a href="https://github.com/wangqiqi"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
   <a href="mailto:zhou24388@163.com"><img src="https://img.icons8.com/bubbles/50/000000/new-post.png" alt="Email"/></a>
-  <a href="https://blog.csdn.net/zhoujinwang"><img src="https://img-home.csdnimg.cn/images/20201124032511.png" alt="Blog" height="50"/></a>
+  <a href="https://blog.csdn.net/zhoujinwang"><img src="https://img-home.csdnimg.cn/images/20201124032511.png" alt="Blog" style="height:50px;" /></a>
 
   <h3>WeChat: znzatop</h3>
   <img src="wechat.jpg" alt="WeChat QR Code" width="200"/>
