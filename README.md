@@ -22,9 +22,9 @@
   </p>
 </div>
 
-<div align="center">
-  <h2>🔧 Skills</h2>
+<h2>🔧 Skills</h2>
 
+<div align="center">
   <p>
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
@@ -42,9 +42,9 @@
   </p>
 </div>
 
-<div align="center">
-  <h2>🚀 Latest Projects</h2>
+<h2>🚀 Latest Projects</h2>
 
+<div align="center">
   <a href="https://github.com/wangqiqi/gaze_laser_game">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=gaze_laser_game&theme=buefy" />
   </a>
@@ -81,21 +81,24 @@
   </a>
 </div>
 
+<h2>🏆 GitHub Trophies</h2>
+
 <div align="center">
-  <h2>🏆 GitHub Trophies</h2>
   <p><i>Last updated: 2025-03-23T11:19:44 (Beijing Time)</i></p>
   <img src="https://github-profile-trophy.vercel.app/?username=wangqiqi&theme=onedark&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
 </div>
 
+<h2>📊 GitHub Stats</h2>
+
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
   <p><i>Last updated: 2025-03-23T11:19:44 (Beijing Time)</i></p>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=wangqiqi&show_icons=true&theme=radical&hide_rank=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangqiqi&layout=compact&theme=radical" />
 </div>
 
+<h2>📝 Recent Blog Posts</h2>
+
 <div align="center">
-  <h2>📝 Recent Blog Posts</h2>
   <!-- BLOG-POST-LIST:START -->
   <ul align="left">
     <li><a href="https://blog.csdn.net/zhoujinwang/article/details/146428378">【Python-OpenCV】手势控制贪吃蛇</a></li>
@@ -109,18 +112,19 @@
   <p>➡️ <a href="https://blog.csdn.net/zhoujinwang">More Blog Posts...</a></p>
 </div>
 
+<h2>📈 Contribution Graph</h2>
+
 <div align="center">
-  <h2>📈 Contribution Graph</h2>
-  <p><i>Last updated: 2025-03-23T03:42:21 (Beijing Time)</i></p>
-  <img<img src="https://github-readme-activity-graph.vercel.app/graph?username=wangqiqi&theme=react-dark" width="100%" alt="Contribution Graph" />
+  <p><i>Last updated: 2025-03-23T11:34:13 (Beijing Time)</i></p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wangqiqi&theme=react-dark" width="100%" alt="Contribution Graph" />
 </div>
 
-<div align="center">
-  <h2>📱 Contact Me</h2>
+<h2>📱 Contact Me</h2>
 
+<div align="center">
   <a href="https://github.com/wangqiqi"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
   <a href="mailto:zhou24388@163.com"><img src="https://img.icons8.com/bubbles/50/000000/new-post.png" alt="Email"/></a>
-  <a href="https://blog.csdn.net/zhoujinwang"><img src="https://img-home.csdnimg.cn/images/20201124032511.png" alt="Blog"/></a>
+  <a href="https://blog.csdn.net/zhoujinwang"><img src="https://img-home.csdnimg.cn/images/20201124032511.png" alt="Blog" height="50"/></a>
 
   <h3>WeChat: znzatop</h3>
   <img src="wechat.jpg" alt="WeChat QR Code" width="200"/>
