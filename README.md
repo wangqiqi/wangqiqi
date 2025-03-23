@@ -22,9 +22,9 @@
   </p>
 </div>
 
-## 🔧 Skills
-
 <div align="center">
+  <h2>🔧 Skills</h2>
+
   <p>
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
@@ -42,9 +42,9 @@
   </p>
 </div>
 
-## 🚀 Latest Projects
-
 <div align="center">
+  <h2>🚀 Latest Projects</h2>
+
   <a href="https://github.com/wangqiqi/gaze_laser_game">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=gaze_laser_game&theme=buefy" />
   </a>
@@ -81,22 +81,19 @@
   </a>
 </div>
 
-## 🏆 GitHub Trophies
-
 <div align="center">
+  <h2>🏆 GitHub Trophies</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=wangqiqi&theme=onedark&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
 </div>
 
-## 📊 GitHub Stats
-
 <div align="center">
+  <h2>📊 GitHub Stats</h2>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=wangqiqi&show_icons=true&theme=radical&hide_rank=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangqiqi&layout=compact&theme=radical" />
 </div>
 
-## 📝 Recent Blog Posts
-
 <div align="center">
+  <h2>📝 Recent Blog Posts</h2>
   <!-- BLOG-POST-LIST:START -->
   <ul align="left">
     <li><a href="https://blog.csdn.net/zhoujinwang/article/details/146428378">【Python-OpenCV】手势控制贪吃蛇</a></li>
@@ -110,15 +107,14 @@
   <p>➡️ <a href="https://blog.csdn.net/zhoujinwang">More Blog Posts...</a></p>
 </div>
 
-## 📈 Contribution Graph
-
 <div align="center">
+  <h2>📈 Contribution Graph</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wangqiqi&theme=react-dark" width="100%" alt="Contribution Graph" />
 </div>
 
-<h2 align="center">📱 Contact Me</h2>
-
 <div align="center">
+  <h2>📱 Contact Me</h2>
+
   <a href="https://github.com/wangqiqi"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
   <a href="mailto:zhou24388@163.com"><img src="https://img.icons8.com/bubbles/50/000000/new-post.png" alt="Email"/></a>
   <a href="https://blog.csdn.net/zhoujinwang"><img src="https://img-home.csdnimg.cn/images/20201124032511.png" alt="Blog"/></a>
