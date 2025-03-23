@@ -3,8 +3,8 @@
 
 import os
 import re
-import requests
 from github import Github
+from update_common import get_beijing_time, update_section_with_timestamp
 
 # 获取GitHub Token
 github_token = os.environ.get("GITHUB_TOKEN")
@@ -37,23 +37,29 @@ def update_github_stats():
         readme_content
     )
     
-    # 更新GitHub统计数据时间戳
-    current_time = requests.get("http://worldtimeapi.org/api/timezone/Asia/Shanghai").json()["datetime"][:19]
+    # 获取当前北京时间
+    current_time = get_beijing_time()
     
-    stats_pattern = r'<h2>📊 GitHub Stats</h2>\s+<img height="170em" src="https://github-readme-stats\.vercel\.app/api\?username=wangqiqi&show_icons=true&theme=radical&hide_rank=true" />\s+<img height="170em" src="https://github-readme-stats\.vercel\.app/api/top-langs/\?username=wangqiqi&layout=compact&theme=radical" />'
-    stats_replacement = f'<h2>📊 GitHub Stats</h2>\n  <p><i>Last updated: {current_time} (Beijing Time)</i></p>\n  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=wangqiqi&show_icons=true&theme=radical&hide_rank=true" />\n  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangqiqi&layout=compact&theme=radical" />'
+    # 更新GitHub统计数据和奖杯
+    readme_content = update_section_with_timestamp(
+        readme_content, 
+        "📊 GitHub Stats", 
+        "github-readme-stats", 
+        current_time
+    )
     
-    readme_content = re.sub(stats_pattern, stats_replacement, readme_content)
-    
-    # 更新GitHub奖杯数据时间戳
-    trophies_pattern = r'<h2>🏆 GitHub Trophies</h2>\s+<img src="https://github-profile-trophy\.vercel\.app/\?username=wangqiqi&theme=onedark&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />'
-    trophies_replacement = f'<h2>🏆 GitHub Trophies</h2>\n  <p><i>Last updated: {current_time} (Beijing Time)</i></p>\n  <img src="https://github-profile-trophy.vercel.app/?username=wangqiqi&theme=onedark&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />'
-    
-    readme_content = re.sub(trophies_pattern, trophies_replacement, readme_content)
+    readme_content = update_section_with_timestamp(
+        readme_content, 
+        "🏆 GitHub Trophies", 
+        "github-profile-trophy", 
+        current_time
+    )
     
     # 写回README文件
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(readme_content)
+    
+    print(f"GitHub stats updated at {current_time}")
 
 if __name__ == "__main__":
     update_github_stats() 

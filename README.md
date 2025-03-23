@@ -111,6 +111,7 @@
 
 <div align="center">
   <h2>📈 Contribution Graph</h2>
+  <p><i>Last updated: 2025-03-23T11:19:44 (Beijing Time)</i></p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wangqiqi&theme=react-dark" width="100%" alt="Contribution Graph" />
 </div>
 

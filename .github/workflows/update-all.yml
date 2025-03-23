@@ -1,0 +1,41 @@
+name: Update All Profile Content
+
+on:
+  schedule:
+    - cron: '0 2 * * *'  # 每天凌晨2点运行
+  workflow_dispatch:  # 允许手动触发
+  push:
+    branches: [ main ]  # 当main分支有推送时运行
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    name: Update README with all content
+
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0  # 获取完整历史以确保正确获取贡献信息
+      
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+          
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests PyGithub
+          
+      - name: Update all profile content
+        run: |
+          python .github/scripts/update_all.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Commit and push if changed
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || (git commit -m "统一更新 GitHub Profile 内容" && git push) 
