@@ -34,8 +34,9 @@ def update_section_with_timestamp(content, section_title, section_image_pattern,
     if timestamp is None:
         timestamp = get_beijing_time()
     
-    pattern = fr'<h2>{re.escape(section_title)}</h2>(?:\s+<p><i>Last updated:.*?</i></p>)?\s+<img.*?{section_image_pattern}.*?/>'
-    replacement = f'<h2>{section_title}</h2>\n  <p><i>Last updated: {timestamp} (Beijing Time)</i></p>\n  <img'
+    # 适配新的标题格式（左对齐）
+    pattern = fr'<h2>{re.escape(section_title)}</h2>\s+<div align="center">\s+<p><i>Last updated:.*?</i></p>\s+<img.*?{section_image_pattern}.*?/>'
+    replacement = f'<h2>{section_title}</h2>\n\n<div align="center">\n  <p><i>Last updated: {timestamp} (Beijing Time)</i></p>\n  <img'
     
     # 保留原始的img标签
     match = re.search(pattern, content, re.DOTALL)
@@ -45,6 +46,7 @@ def update_section_with_timestamp(content, section_title, section_image_pattern,
             replacement += img_tag.group(0)
     else:
         # 如果没有找到匹配，返回原始内容
+        print(f"无法找到匹配的部分: {section_title}")
         return content
     
     return re.sub(pattern, replacement, content, flags=re.DOTALL)
