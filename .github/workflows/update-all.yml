@@ -11,9 +11,11 @@ jobs:
   update-profile:
     runs-on: ubuntu-latest
     name: Update README with all content
+    timeout-minutes: 10  # 设置超时时间
 
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v2
         with:
           fetch-depth: 0  # 获取完整历史以确保正确获取贡献信息
       
@@ -28,14 +30,38 @@ jobs:
           pip install requests PyGithub
           
       - name: Update all profile content
+        id: update_profile
+        continue-on-error: true  # 允许脚本失败但继续执行下一步
         run: |
           python .github/scripts/update_all.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-      - name: Commit and push if changed
+      - name: Check for README.md.bak
+        id: check_backup
+        run: |
+          if [ -f "README.md.bak" ]; then
+            echo "Backup file found, comparing with current README"
+            if ! cmp -s "README.md" "README.md.bak"; then
+              echo "::set-output name=changed::true"
+            else
+              echo "::set-output name=changed::false"
+            fi
+          else
+            echo "No backup file found"
+            echo "::set-output name=changed::false"
+          fi
+          
+      - name: Commit and push changes
+        if: success() || steps.check_backup.outputs.changed == 'true'
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
-          git add -A
-          git diff --quiet && git diff --staged --quiet || (git commit -m "统一更新 GitHub Profile 内容" && git push) 
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "统一更新 GitHub Profile 内容" && git push)
+          
+      - name: Cleanup backup files
+        if: always()
+        run: |
+          find . -name "*.bak" -type f -delete
+          echo "Cleaned up backup files" 
