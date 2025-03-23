@@ -115,8 +115,8 @@
 <h2>📈 Contribution Graph</h2>
 
 <div align="center">
-  <p><i>Last updated: 2025-03-23T11:34:13 (Beijing Time)</i></p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wangqiqi&theme=react-dark" width="100%" alt="Contribution Graph" />
+  <p><i>Last updated: 2025-03-23T03:53:32 (Beijing Time)</i></p>
+  <img<img src="https://github-readme-activity-graph.vercel.app/graph?username=wangqiqi&theme=react-dark" width="100%" alt="Contribution Graph" />
 </div>
 
 <h2>📱 Contact Me</h2>
