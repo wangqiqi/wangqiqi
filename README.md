@@ -42,6 +42,34 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
 </p>
 
+<p align="center">
+  <img src="https://progress-bar.dev/100/?title=Python&width=200&color=3776AB" width="300">
+</p>
+<p align="center">
+  <img src="https://progress-bar.dev/100/?title=OpenCV&width=200&color=5C3EE8" width="300">
+</p>
+<p align="center">
+  <img src="https://progress-bar.dev/100/?title=MediaPipe&width=200&color=0F9D58" width="300">
+</p>
+<p align="center">
+  <img src="https://progress-bar.dev/100/?title=NumPy&width=200&color=013243" width="300">
+</p>
+<p align="center">
+  <img src="https://progress-bar.dev/80/?title=PyTorch&width=200&color=EE4C2C" width="300">
+</p>
+<p align="center">
+  <img src="https://progress-bar.dev/74/?title=C++&width=200&color=00599C" width="300">
+</p>
+<p align="center">
+  <img src="https://progress-bar.dev/70/?title=Jupyter&width=200&color=F37626" width="300">
+</p>
+<p align="center">
+  <img src="https://progress-bar.dev/70/?title=TensorFlow&width=200&color=FF6F00" width="300">
+</p>
+<p align="center">
+  <img src="https://progress-bar.dev/52/?title=JavaScript&width=200&color=F7DF1E" width="300">
+</p>
+
 ## 🏆 Project Milestones
 
 - 🔍 **Face Mask Application**: 实时人脸面具应用
