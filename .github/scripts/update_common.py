@@ -35,7 +35,7 @@ def update_section_with_timestamp(content, section_title, section_image_pattern,
         timestamp = get_beijing_time()
     
     # 适配新的标题格式（左对齐）
-    pattern = fr'<h2>{re.escape(section_title)}</h2>\s+<div align="center">\s+<p><i>Last updated:.*?</i></p>\s+<img.*?{section_image_pattern}.*?/>'
+    pattern = fr'<h2>{re.escape(section_title)}</h2>\s+<div align="center">\s+(?:<p><i>Last updated:.*?</i></p>\s+)?<img.*?{section_image_pattern}.*?/>'
     replacement = f'<h2>{section_title}</h2>\n\n<div align="center">\n  <p><i>Last updated: {timestamp} (Beijing Time)</i></p>\n  <img'
     
     # 保留原始的img标签
@@ -44,12 +44,19 @@ def update_section_with_timestamp(content, section_title, section_image_pattern,
         img_tag = re.search(r'<img.*?/>', match.group(0), re.DOTALL)
         if img_tag:
             replacement += img_tag.group(0)
+        else:
+            print(f"警告：无法在匹配的内容中找到图像标签: {section_title}")
+            return content
     else:
-        # 如果没有找到匹配，返回原始内容
         print(f"无法找到匹配的部分: {section_title}")
+        print(f"使用的正则表达式: {pattern}")
         return content
     
-    return re.sub(pattern, replacement, content, flags=re.DOTALL)
+    updated_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
+    if updated_content == content:
+        print(f"警告：替换操作未能改变内容: {section_title}")
+    
+    return updated_content
 
 def create_backup(file_path):
     """创建文件备份"""
