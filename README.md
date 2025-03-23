@@ -83,11 +83,13 @@
 
 <div align="center">
   <h2>🏆 GitHub Trophies</h2>
+  <p><i>Last updated: 2025-03-23T11:19:44 (Beijing Time)</i></p>
   <img src="https://github-profile-trophy.vercel.app/?username=wangqiqi&theme=onedark&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
+  <p><i>Last updated: 2025-03-23T11:19:44 (Beijing Time)</i></p>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=wangqiqi&show_icons=true&theme=radical&hide_rank=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangqiqi&layout=compact&theme=radical" />
 </div>
