@@ -1,12 +1,17 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-from update_common import get_beijing_time, update_section_with_timestamp
+from update_common import get_beijing_time, update_section_with_timestamp, create_backup
 
 def update_contribution_graph():
     """更新贡献图"""
+    readme_path = "README.md"
+    
+    # 创建备份
+    create_backup(readme_path)
+    
     # 读取README文件
-    with open("README.md", "r", encoding="utf-8") as f:
+    with open(readme_path, "r", encoding="utf-8") as f:
         readme_content = f.read()
     
     # 获取当前北京时间
@@ -22,7 +27,7 @@ def update_contribution_graph():
     
     if updated_content != readme_content:
         # 写回README文件
-        with open("README.md", "w", encoding="utf-8") as f:
+        with open(readme_path, "w", encoding="utf-8") as f:
             f.write(updated_content)
         print(f"Contribution graph updated at {current_time}")
     else:
