@@ -91,12 +91,14 @@
 
 ## 🏆 GitHub Trophies
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=wangqiqi&theme=onedark&column=7)
+![Trophy](https://github-profile-trophy.vercel.app/?username=wangqiqi&theme=onedark&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A)
 
 ## 📊 GitHub Stats
 
-![wangqiqi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wangqiqi&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wangqiqi&layout=compact&theme=radical)
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=wangqiqi&show_icons=true&theme=radical&hide_rank=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangqiqi&layout=compact&theme=radical" />
+</div>
 
 ## 📝 Recent Blog Posts
 
