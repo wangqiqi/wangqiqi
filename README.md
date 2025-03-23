@@ -73,8 +73,8 @@
 <a href="https://github.com/wangqiqi/github-trend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=github-trend&theme=buefy" />
 </a>
-<a href="https://github.com/wangqiqi/head-racing-game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=head-racing-game&theme=buefy" />
+<a href="https://github.com/wangqiqi/wangqiqi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=wangqiqi&theme=buefy" />
 </a>
 </div>
 
