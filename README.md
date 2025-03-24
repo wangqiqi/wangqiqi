@@ -100,14 +100,12 @@
 
 <div align="center">
   <!-- BLOG-POST-LIST:START -->
-  <ul align="left">
-    <li><a href="https://blog.csdn.net/zhoujinwang/article/details/146428378">【Python-OpenCV】手势控制贪吃蛇</a></li>
-    <li><a href="https://blog.csdn.net/zhoujinwang/article/details/146407083">【python-opencv-mediapipe】眼睛杀死315黑心商家</a></li>
-    <li><a href="https://blog.csdn.net/zhoujinwang/article/details/146267237">【π日庆祝】python mediapipe</a></li>
-    <li><a href="https://blog.csdn.net/zhoujinwang/article/details/146211005">扫描线效果：创建令人惊叹的视频过渡效果</a></li>
-    <li><a href="https://blog.csdn.net/zhoujinwang/article/details/146189260">markdown转docx</a></li>
-  </ul>
-  <!-- BLOG-POST-LIST:END -->
+- [【Python-OpenCV】手势控制贪吃蛇](https://blog.csdn.net/zhoujinwang/article/details/146428378)
+- [【python-opencv-mediapipe】眼睛杀死315黑心商家](https://blog.csdn.net/zhoujinwang/article/details/146407083)
+- [【π日庆祝】python mediapipe](https://blog.csdn.net/zhoujinwang/article/details/146267237)
+- [扫描线效果：创建令人惊叹的视频过渡效果](https://blog.csdn.net/zhoujinwang/article/details/146211005)
+- [markdown转docx](https://blog.csdn.net/zhoujinwang/article/details/146189260)
+<!-- BLOG-POST-LIST:END -->
 
   <p>➡️ <a href="https://blog.csdn.net/zhoujinwang">More Blog Posts...</a></p>
 </div>
