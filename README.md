@@ -110,31 +110,31 @@ Computer Vision Developer | Deep Learning Enthusiast
   <div style="text-align: center;">
     <img src="https://open.weixin.qq.com/zh_CN/htmledition/res/assets/res-design-download/icon64_wx_logo.png" alt="WeChat" style="width: 40px; height: 40px;"/>
     <p style="margin: 8px 0;">微信</p>
-    <img src="../interesting_assets/images/wechat.jpg" alt="WeChat QR Code" style="width: 160px; height: 160px; object-fit: cover;"/>
+    <img src="https://github.com/wangqiqi/interesting_assets/raw/main/images/wechat.jpg" alt="WeChat QR Code" style="width: 160px; height: 160px; object-fit: cover;"/>
   </div>
 
   <div style="text-align: center;">
     <img src="https://www.bilibili.com/favicon.ico" alt="Bilibili" style="width: 40px; height: 40px;"/>
     <p style="margin: 8px 0;">哔哩哔哩</p>
-    <img src="../interesting_assets/images/bilibili.jpg" alt="Bilibili QR Code" style="width: 160px; height: 160px; object-fit: cover;"/>
+    <img src="https://github.com/wangqiqi/interesting_assets/raw/main/images/bilibili.jpg" alt="Bilibili QR Code" style="width: 160px; height: 160px; object-fit: cover;"/>
   </div>
 
   <div style="text-align: center;">
     <img src="https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/public/favicon.ico" alt="Douyin" style="width: 40px; height: 40px;"/>
     <p style="margin: 8px 0;">抖音</p>
-    <img src="../interesting_assets/images/douyin.jpg" alt="Douyin QR Code" style="width: 160px; height: 160px; object-fit: cover;"/>
+    <img src="https://github.com/wangqiqi/interesting_assets/raw/main/images/douyin.jpg" alt="Douyin QR Code" style="width: 160px; height: 160px; object-fit: cover;"/>
   </div>
 
   <div style="text-align: center;">
     <img src="https://cdn.brandfetch.io/idvL6iJWSM/w/205/h/96/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Xiaohongshu" style="width: 40px; height: 40px; object-fit: contain;"/>
     <p style="margin: 8px 0;">小红书</p>
-    <img src="../interesting_assets/images/xiaohongshu.png" alt="Xiaohongshu QR Code" style="width: 160px; height: 160px; object-fit: cover;"/>
+    <img src="https://github.com/wangqiqi/interesting_assets/raw/main/images/xiaohongshu.png" alt="Xiaohongshu QR Code" style="width: 160px; height: 160px; object-fit: cover;"/>
   </div>
 
   <div style="text-align: center;">
     <img src="https://img-home.csdnimg.cn/images/20201124032511.png" alt="CSDN" style="width: 40px; height: 40px;"/>
     <p style="margin: 8px 0;">CSDN</p>
-    <img src="../interesting_assets/images/csdn.jpg" alt="CSDN QR Code" style="width: 160px; height: 160px; object-fit: cover;"/>
+    <img src="https://github.com/wangqiqi/interesting_assets/raw/main/images/csdn.jpg" alt="CSDN QR Code" style="width: 160px; height: 160px; object-fit: cover;"/>
   </div>
 </div>
 
