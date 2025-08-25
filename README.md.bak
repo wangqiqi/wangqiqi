@@ -32,44 +32,79 @@ Computer Vision Developer | Deep Learning Enthusiast
 
 ## 🚀 Latest Projects
 
-<div align="center">
-  <a href="https://github.com/nxu-game/gaze_laser_game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=gaze_laser_game&theme=buefy" />
-  </a>
-  <a href="https://github.com/nxu-game/gesture-snake">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=gesture-snake&theme=buefy" />
-  </a>
-
-  <a href="https://github.com/nxu-game/ar_pi_tattoo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=ar_pi_tattoo&theme=buefy" />
-  </a>
-  <a href="https://github.com/nxu-game/head-racing-game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=head-racing-game&theme=buefy" />
-  </a>
-
-  <a href="https://github.com/nxu-game/face_mask">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=face_mask&theme=buefy" />
-  </a>
-  <a href="https://github.com/nxu-game/scan-effect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=scan-effect&theme=buefy" />
-  </a>
-
-  <a href="https://github.com/nxu-game/hand_control_vol">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=hand_control_vol&theme=buefy" />
-  </a>
-  <a href="https://github.com/nxu-game/virtual_drag_scale">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=virtual_drag_scale&theme=buefy" />
-  </a>
-
-  <a href="https://github.com/nxu-game/interesting_assets">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=interesting_assets&theme=buefy" />
-  </a>
-  <a href="https://github.com/wangqiqi/wangqiqi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=wangqiqi&theme=buefy" />
-  </a>
-</div>
-
-## 🏆 GitHub Trophies
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; margin-top: 20px;"><a href='https://github.com/wangqiqi/md2docx' style='text-decoration: none;' onmouseover='this.querySelector('img').style.transform='scale(1.03)';' onmouseout='this.querySelector('img').style.transform='scale(1)';'>
+        <div style='border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1); transition: all 0.3s;'>
+          <img src='https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=md2docx&theme=buefy' style='width: 100%; transition: transform 0.3s;' />
+          <div style='padding: 15px;'>
+            <h3 style='margin: auto; color: #333;'>md2docx</h3>
+            <p style='margin: 10px 0; color: #666; font-size: 14px;'>markdown 文档转换成 docx 文档</p>
+            <div style='display: flex; flex-wrap: wrap; gap: 8px;'>
+              <span style='background: #e0f2fe; color: #0369a1; padding: 3px 8px; border-radius: 12px; font-size: 12px;'>Python</span>
+              <span style='background: #fee2e2; color: #b91c1c; padding: 3px 8px; border-radius: 12px; font-size: 12px;'>★ 17</span>
+            </div>
+          </div>
+        </div>
+      </a><a href='https://github.com/wangqiqi/rk3588_yolov5_deploy' style='text-decoration: none;' onmouseover='this.querySelector('img').style.transform='scale(1.03)';' onmouseout='this.querySelector('img').style.transform='scale(1)';'>
+        <div style='border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1); transition: all 0.3s;'>
+          <img src='https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=rk3588_yolov5_deploy&theme=buefy' style='width: 100%; transition: transform 0.3s;' />
+          <div style='padding: 15px;'>
+            <h3 style='margin: auto; color: #333;'>rk3588_yolov5_deploy</h3>
+            <p style='margin: 10px 0; color: #666; font-size: 14px;'>No description available</p>
+            <div style='display: flex; flex-wrap: wrap; gap: 8px;'>
+              <span style='background: #e0f2fe; color: #0369a1; padding: 3px 8px; border-radius: 12px; font-size: 12px;'>C++</span>
+              <span style='background: #fee2e2; color: #b91c1c; padding: 3px 8px; border-radius: 12px; font-size: 12px;'>★ 5</span>
+            </div>
+          </div>
+        </div>
+      </a><a href='https://github.com/wangqiqi/baidu-top-crawler' style='text-decoration: none;' onmouseover='this.querySelector('img').style.transform='scale(1.03)';' onmouseout='this.querySelector('img').style.transform='scale(1)';'>
+        <div style='border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1); transition: all 0.3s;'>
+          <img src='https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=baidu-top-crawler&theme=buefy' style='width: 100%; transition: transform 0.3s;' />
+          <div style='padding: 15px;'>
+            <h3 style='margin: auto; color: #333;'>baidu-top-crawler</h3>
+            <p style='margin: 10px 0; color: #666; font-size: 14px;'>获取百度热点</p>
+            <div style='display: flex; flex-wrap: wrap; gap: 8px;'>
+              <span style='background: #e0f2fe; color: #0369a1; padding: 3px 8px; border-radius: 12px; font-size: 12px;'>Python</span>
+              <span style='background: #fee2e2; color: #b91c1c; padding: 3px 8px; border-radius: 12px; font-size: 12px;'>★ 3</span>
+            </div>
+          </div>
+        </div>
+      </a><a href='https://github.com/wangqiqi/opencv-python-tutorial' style='text-decoration: none;' onmouseover='this.querySelector('img').style.transform='scale(1.03)';' onmouseout='this.querySelector('img').style.transform='scale(1)';'>
+        <div style='border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1); transition: all 0.3s;'>
+          <img src='https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=opencv-python-tutorial&theme=buefy' style='width: 100%; transition: transform 0.3s;' />
+          <div style='padding: 15px;'>
+            <h3 style='margin: auto; color: #333;'>opencv-python-tutorial</h3>
+            <p style='margin: 10px 0; color: #666; font-size: 14px;'>No description available</p>
+            <div style='display: flex; flex-wrap: wrap; gap: 8px;'>
+              <span style='background: #e0f2fe; color: #0369a1; padding: 3px 8px; border-radius: 12px; font-size: 12px;'>Jupyter Notebook</span>
+              <span style='background: #fee2e2; color: #b91c1c; padding: 3px 8px; border-radius: 12px; font-size: 12px;'>★ 2</span>
+            </div>
+          </div>
+        </div>
+      </a><a href='https://github.com/wangqiqi/Qoder-ai' style='text-decoration: none;' onmouseover='this.querySelector('img').style.transform='scale(1.03)';' onmouseout='this.querySelector('img').style.transform='scale(1)';'>
+        <div style='border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1); transition: all 0.3s;'>
+          <img src='https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=Qoder-ai&theme=buefy' style='width: 100%; transition: transform 0.3s;' />
+          <div style='padding: 15px;'>
+            <h3 style='margin: auto; color: #333;'>Qoder-ai</h3>
+            <p style='margin: 10px 0; color: #666; font-size: 14px;'>Qoder 复制即用的配置！</p>
+            <div style='display: flex; flex-wrap: wrap; gap: 8px;'>
+              <span style='background: #e0f2fe; color: #0369a1; padding: 3px 8px; border-radius: 12px; font-size: 12px;'>Unknown</span>
+              <span style='background: #fee2e2; color: #b91c1c; padding: 3px 8px; border-radius: 12px; font-size: 12px;'>★ 1</span>
+            </div>
+          </div>
+        </div>
+      </a><a href='https://github.com/wangqiqi/wangqiqi' style='text-decoration: none;' onmouseover='this.querySelector('img').style.transform='scale(1.03)';' onmouseout='this.querySelector('img').style.transform='scale(1)';'>
+        <div style='border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1); transition: all 0.3s;'>
+          <img src='https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=wangqiqi&theme=buefy' style='width: 100%; transition: transform 0.3s;' />
+          <div style='padding: 15px;'>
+            <h3 style='margin: auto; color: #333;'>wangqiqi</h3>
+            <p style='margin: 10px 0; color: #666; font-size: 14px;'>Config files for my GitHub profile.</p>
+            <div style='display: flex; flex-wrap: wrap; gap: 8px;'>
+              <span style='background: #e0f2fe; color: #0369a1; padding: 3px 8px; border-radius: 12px; font-size: 12px;'>Unknown</span>
+              <span style='background: #fee2e2; color: #b91c1c; padding: 3px 8px; border-radius: 12px; font-size: 12px;'>★ 0</span>
+            </div>
+          </div>
+        </div>
+      </a></div>## 🏆 GitHub Trophies
 
 *Last updated: 2025-03-23T11:19:44 (Beijing Time)*
 
