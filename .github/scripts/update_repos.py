@@ -28,20 +28,10 @@ repos = sorted(
 )[:MAX_REPOS]  # 只取前MAX_REPOS个
 
 #　生成仓库卡片HTML (美化版)
-repo_cards = "<div style=\"display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; margin-top: 20px;\">"
+repo_cards = "<div style=\"display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 15px; margin-top: 20px;\">"
 for repo in repos:
-    repo_cards += f"""<a href='{repo.html_url}' style='text-decoration: none;' onmouseover='this.querySelector(\'img\').style.transform=\'scale(1.03)\';' onmouseout='this.querySelector(\'img\').style.transform=\'scale(1)\';'>
-        <div style='border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1); transition: all 0.3s;'>
-          <img src='https://github-readme-stats.vercel.app/api/pin/?username={USERNAME}&repo={repo.name}&theme=buefy' style='width: 100%; transition: transform 0.3s;' />
-          <div style='padding: 15px;'>
-            <h3 style='margin: auto; color: #333;'>{repo.name}</h3>
-            <p style='margin: 10px 0; color: #666; font-size: 14px;'>{repo.description if repo.description else 'No description available'}</p>
-            <div style='display: flex; flex-wrap: wrap; gap: 8px;'>
-              <span style='background: #e0f2fe; color: #0369a1; padding: 3px 8px; border-radius: 12px; font-size: 12px;'>{repo.language if repo.language else 'Unknown'}</span>
-              <span style='background: #fee2e2; color: #b91c1c; padding: 3px 8px; border-radius: 12px; font-size: 12px;'>★ {repo.stargazers_count}</span>
-            </div>
-          </div>
-        </div>
+    repo_cards += f"""<a href='{repo.html_url}'>
+        <img src='https://github-readme-stats.vercel.app/api/pin/?username={USERNAME}&repo={repo.name}&theme=default' style='width: 100%;' />
       </a>"""
 
 repo_cards += "</div>"
