@@ -2,7 +2,7 @@ name: Update Contribution Graph
 
 on:
   schedule:
-    - cron: '0 1 * * *'  # 每天凌晨1点运行
+  - cron: '0 1 * * *'
   workflow_dispatch:  # 允许手动触发
   push:
     branches: [ main ]  # 当main分支有推送时运行

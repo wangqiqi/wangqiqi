@@ -9,7 +9,7 @@ from collections import Counter
 USERNAME = "wangqiqi"  # 替换为您的GitHub用户名
 README_PATH = "README.md"
 SKILLS_SECTION_START = "## 🔧 Skills"
-SKILLS_SECTION_END = "## 🏆 Project Milestones"
+SKILLS_SECTION_END = "## 🚀 Latest Projects"
 FEATURED_PROJECTS_START = "## 📌 Featured Projects"
 
 # 技能映射（GitHub语言 -> 技能名称和颜色）
@@ -110,13 +110,44 @@ for framework, count in frameworks.items():
 # 按得分排序
 sorted_skills = sorted(all_skills.values(), key=lambda x: x["score"], reverse=True)
 
-# 生成技能徽章HTML - 每行只显示3个徽章
-badges_html = "<p align=\"center\">\n"
-for i, skill in enumerate(sorted_skills):
-    if i > 0 and i % 3 == 0:
-        badges_html += "</p>\n<p align=\"center\">\n"
-    badges_html += f"  <img src=\"https://img.shields.io/badge/-{skill['name']}-{skill['color']}?style=for-the-badge&logo={skill['logo']}&logoColor=white\" alt=\"{skill['name']}\">\n"
-badges_html += "</p>\n\n"
+# 生成技能徽章HTML - 使用分类卡片布局
+badges_html = "" 
+
+# 技能分类
+development_langs = []
+aiml_frameworks = []
+data_tools = []
+
+for skill in sorted_skills:
+    if skill['name'] in ['Python', 'C++', 'JavaScript', 'Jupyter']:
+        development_langs.append(skill)
+    elif skill['name'] in ['TensorFlow', 'PyTorch', 'OpenCV', 'MediaPipe']:
+        aiml_frameworks.append(skill)
+    elif skill['name'] in ['NumPy', 'Pandas']:
+        data_tools.append(skill)
+
+# 生成分类技能卡片
+def generate_category_html(category_name, skills):
+    if not skills:
+        return ""
+    html = f"<h３ style=\"margin-top: 20px;\">{category_name}</h3>\n"
+    html += "<div style=\"display: flex; flex-wrap: wrap; gap:　15px; margin: 10px　0;\">\n"
+    for skill in skills:
+        html += f"<div style=\"transition: transform　0.3s;\" onmouseover=\"this.style.transform='scale(1.05)';\" onmouseout=\"this.style.transform='scale(１)';\">\n"
+        html += f"  <img src=\"https://img.shields.io/badge/-{skill['name']}-{skill['color']}?style=for-the-badge&logo={skill['logo']}&logoColor=white\" alt=\"{skill['name']}">\n"
+        html += "</div>\n"
+    html += "</div>\n\n"
+    return html
+
+badges_html += generate_category_html("🚀　编程语言", development_langs)
+badges_html += generate_category_html("🧠 AI & 机器学习", aiml_frameworks)
+badges_html += generate_category_html("📊 数据工具", data_tools)
+
+# 添加技能进度条
+badges_html += "<div style=\"margin-top: 30px;\">\n"
+for skill in sorted_skills[:5]:  # 只显示前5个技能的进度条
+badges_html += f"<p align=\"center\">\n  <img src=\"https://progress-bar.dev/{skill['score']}/?title={skill['name']}&width=200&color={skill['color']}\" width=\"300\">\n</p>\n"
+badges_html += "</div>\n"
 
 # 生成技能进度条HTML - 每行只显示1个进度条
 progress_html = ""
@@ -150,4 +181,4 @@ if milestones_match:
 with open(README_PATH, "w", encoding="utf-8") as f:
     f.write(new_readme)
 
-print(f"已更新README.md，添加了{len(sorted_skills)}个技能，并移除了重复的技能卡片。") 
+print(f"已更新README.md，添加了{len(sorted_skills)}个技能，并移除了重复的技能卡片。")

@@ -2,7 +2,7 @@ name: Update All Profile Content
 
 on:
   schedule:
-    - cron: '0 2 * * *'  # 每天凌晨2点运行
+  - cron: '0 2 * * *'
   workflow_dispatch:  # 允许手动触发
   push:
     branches: [ main ]  # 当main分支有推送时运行
