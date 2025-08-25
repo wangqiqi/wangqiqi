@@ -33,35 +33,35 @@ Computer Vision Developer | Deep Learning Enthusiast
 ## 🚀 Latest Projects
 
 <div align="center">
-  <a href="https://github.com/wangqiqi/gaze_laser_game">
+  <a href="https://github.com/nxu-game/gaze_laser_game">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=gaze_laser_game&theme=buefy" />
   </a>
-  <a href="https://github.com/wangqiqi/gesture-snake">
+  <a href="https://github.com/nxu-game/gesture-snake">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=gesture-snake&theme=buefy" />
   </a>
 
-  <a href="https://github.com/wangqiqi/ar_pi_tattoo">
+  <a href="https://github.com/nxu-game/ar_pi_tattoo">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=ar_pi_tattoo&theme=buefy" />
   </a>
-  <a href="https://github.com/wangqiqi/head-racing-game">
+  <a href="https://github.com/nxu-game/head-racing-game">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=head-racing-game&theme=buefy" />
   </a>
 
-  <a href="https://github.com/wangqiqi/face_mask">
+  <a href="https://github.com/nxu-game/face_mask">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=face_mask&theme=buefy" />
   </a>
-  <a href="https://github.com/wangqiqi/scan-effect">
+  <a href="https://github.com/nxu-game/scan-effect">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=scan-effect&theme=buefy" />
   </a>
 
-  <a href="https://github.com/wangqiqi/hand_control_vol">
+  <a href="https://github.com/nxu-game/hand_control_vol">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=hand_control_vol&theme=buefy" />
   </a>
-  <a href="https://github.com/wangqiqi/virtual_drag_scale">
+  <a href="https://github.com/nxu-game/virtual_drag_scale">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=virtual_drag_scale&theme=buefy" />
   </a>
 
-  <a href="https://github.com/wangqiqi/interesting_assets">
+  <a href="https://github.com/nxu-game/interesting_assets">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=interesting_assets&theme=buefy" />
   </a>
   <a href="https://github.com/wangqiqi/wangqiqi">
@@ -132,19 +132,19 @@ Computer Vision Developer | Deep Learning Enthusiast
   </tr>
   <tr align="center">
     <td>
-      <img src="https://github.com/wangqiqi/interesting_assets/raw/main/images/wechat.jpg" width="120" alt="WeChat QR Code"/>
+      <img src="https://github.com/nxu-game/interesting_assets/raw/main/images/wechat.jpg" width="120" alt="WeChat QR Code"/>
     </td>
     <td>
-      <img src="https://github.com/wangqiqi/interesting_assets/raw/main/images/bilibili.jpg" width="120" alt="Bilibili QR Code"/>
+      <img src="https://github.com/nxu-game/interesting_assets/raw/main/images/bilibili.jpg" width="120" alt="Bilibili QR Code"/>
     </td>
     <td>
-      <img src="https://github.com/wangqiqi/interesting_assets/raw/main/images/douyin.jpg" width="120" alt="Douyin QR Code"/>
+      <img src="https://github.com/nxu-game/interesting_assets/raw/main/images/douyin.jpg" width="120" alt="Douyin QR Code"/>
     </td>
     <td>
-      <img src="https://github.com/wangqiqi/interesting_assets/raw/main/images/xiaohongshu.png" width="120" alt="Xiaohongshu QR Code"/>
+      <img src="https://github.com/nxu-game/interesting_assets/raw/main/images/xiaohongshu.png" width="120" alt="Xiaohongshu QR Code"/>
     </td>
     <td>
-      <img src="https://github.com/wangqiqi/interesting_assets/raw/main/images/csdn.jpg" width="120" alt="CSDN QR Code"/>
+      <img src="https://github.com/nxu-game/interesting_assets/raw/main/images/csdn.jpg" width="120" alt="CSDN QR Code"/>
     </td>
   </tr>
 </table>
