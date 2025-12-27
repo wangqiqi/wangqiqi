@@ -50,7 +50,6 @@
     <a href="#-about-me"><img src="https://img.shields.io/badge/🚀_About-4ECDC4?style=flat-square" /></a>
     <a href="#-technical-expertise"><img src="https://img.shields.io/badge/🎯_Skills-FFD93D?style=flat-square" /></a>
     <a href="#-achievements--highlights"><img src="https://img.shields.io/badge/🏆_Projects-6C5CE7?style=flat-square" /></a>
-    <a href="#-technical-blog--content"><img src="https://img.shields.io/badge/📝_Blog-A855F7?style=flat-square" /></a>
     <a href="#-connect-with-me"><img src="https://img.shields.io/badge/📱_Connect-EC4899?style=flat-square" /></a>
   </p>
 </div>
@@ -257,36 +256,6 @@
   </p>
 </div>
 
-## 📝 Technical Blog & Content
-
-<div align="center">
-  <h3><strong>🎯 Latest Articles</strong></h3>
-
-  <!-- BLOG-POST-LIST:START -->
-- [13-装饰器-导读](https://blog.csdn.net/zhoujinwang/article/details/156330827)
-- [12-迭代器和生成器-练习](https://blog.csdn.net/zhoujinwang/article/details/156330808)
-- [12-迭代器和生成器-教程](https://blog.csdn.net/zhoujinwang/article/details/156330783)
-- [12-迭代器和生成器-导读](https://blog.csdn.net/zhoujinwang/article/details/156330759)
-- [11-正则表达式-练习](https://blog.csdn.net/zhoujinwang/article/details/156330705)
-<!-- BLOG-POST-LIST:END -->
-
-  <br>
-
-  <h3><strong>📊 Content Platforms</strong></h3>
-  <p>
-    <img src="https://img.shields.io/badge/CSDN-博客平台-FC5531?style=for-the-badge&logo=csdn&logoColor=white" />
-    <img src="https://img.shields.io/badge/微信公众号-技术分享-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
-    <img src="https://img.shields.io/badge/哔哩哔哩-视频教程-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" />
-  </p>
-
-  <div align="center">
-    <a href="https://blog.csdn.net/zhoujinwang">
-      <img src="https://img.shields.io/badge/📚_View_All_Articles_→-0078D4?style=for-the-badge&logo=book&logoColor=white" />
-    </a>
-  </div>
-</div>
-
----
 
 ## 📱 Connect With Me
 
@@ -295,40 +264,33 @@
 
   <table>
     <tr>
-      <td align="center" width="20%">
+      <td align="center" width="25%">
         <a href="#" title="WeChat">
           <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
         </a>
         <br>
         <img src="https://github.com/nxu-game/interesting_assets/raw/main/images/wechat.jpg" width="80" alt="WeChat QR"/>
       </td>
-      <td align="center" width="20%">
+      <td align="center" width="25%">
         <a href="#" title="Bilibili">
           <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" />
         </a>
         <br>
         <img src="https://github.com/nxu-game/interesting_assets/raw/main/images/bilibili.jpg" width="80" alt="Bilibili QR"/>
       </td>
-      <td align="center" width="20%">
+      <td align="center" width="25%">
         <a href="#" title="Douyin">
           <img src="https://img.shields.io/badge/Douyin-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
         </a>
         <br>
         <img src="https://github.com/nxu-game/interesting_assets/raw/main/images/douyin.jpg" width="80" alt="Douyin QR"/>
       </td>
-      <td align="center" width="20%">
+      <td align="center" width="25%">
         <a href="#" title="Xiaohongshu">
           <img src="https://img.shields.io/badge/Xiaohongshu-FF2442?style=for-the-badge&logo=instagram&logoColor=white" />
         </a>
         <br>
         <img src="https://github.com/nxu-game/interesting_assets/raw/main/images/xiaohongshu.png" width="80" alt="Xiaohongshu QR"/>
-      </td>
-      <td align="center" width="20%">
-        <a href="#" title="CSDN">
-          <img src="https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=csdn&logoColor=white" />
-        </a>
-        <br>
-        <img src="https://github.com/nxu-game/interesting_assets/raw/main/images/csdn.jpg" width="80" alt="CSDN QR"/>
       </td>
     </tr>
   </table>
