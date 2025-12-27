@@ -262,32 +262,8 @@
 <div align="center">
   <h3><strong>🎯 Latest Articles</strong></h3>
 
-  <table>
-    <tr>
-      <td>
-        <a href="https://blog.csdn.net/zhoujinwang/article/details/146428378">
-          <img src="https://img.shields.io/badge/🎮_手势控制贪吃蛇_OpenCV游戏开发-FF6B6B?style=for-the-badge&logo=game&logoColor=white" />
-        </a>
-      </td>
-      <td>
-        <a href="https://blog.csdn.net/zhoujinwang/article/details/146407083">
-          <img src="https://img.shields.io/badge/👁️_眼睛检测技术_MediaPipe应用-4ECDC4?style=for-the-badge&logo=eye&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://blog.csdn.net/zhoujinwang/article/details/146267237">
-          <img src="https://img.shields.io/badge/🥧_π日庆祝活动_Python创意编程-FFD93D?style=for-the-badge&logo=pi&logoColor=black" />
-        </a>
-      </td>
-      <td>
-        <a href="https://blog.csdn.net/zhoujinwang/article/details/146211005">
-          <img src="https://img.shields.io/badge/🎬_视频特效制作_OpenCV图像处理-6C5CE7?style=for-the-badge&logo=video&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
 
   <br>
 
