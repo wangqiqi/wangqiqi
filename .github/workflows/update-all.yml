@@ -2,10 +2,10 @@ name: Update Profile Content
 
 on:
   schedule:
-  - cron: '0 2 * * *'  # 每天凌晨2点运行
-  workflow_dispatch:   # 允许手动触发
+    - cron: '0 2 * * *'
+  workflow_dispatch:
   push:
-    branches: [ main ]  # 当main分支有推送时运行
+    branches: [ main ]
 
 jobs:
   update-profile:
@@ -19,10 +19,8 @@ jobs:
 
       - name: Keep repository active
         run: |
-          # Dummy commit to keep the repository active if no other changes
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
-          # Only create dummy commit if there are no recent commits in the last 60 days
           if [[ $(git log --since="60 days ago" --oneline | wc -l) -eq 0 ]]; then
             git commit --allow-empty -m "🤖 Keep repository active (automated)" && git push
           fi

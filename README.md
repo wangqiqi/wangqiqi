@@ -1,30 +1,3 @@
----
-<style>
-@media (max-width: 768px) {
-  table {
-    width: 100% !important;
-    display: block !important;
-  }
-  tr {
-    display: block !important;
-    margin-bottom: 10px !important;
-  }
-  td {
-    display: block !important;
-    width: 100% !important;
-    text-align: center !important;
-    padding: 10px !important;
-  }
-  img {
-    max-width: 100% !important;
-    height: auto !important;
-  }
-  .mobile-hide {
-    display: none !important;
-  }
-}
-</style>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=wangqiqi&fontSize=80&fontAlignY=35&animation=fadeIn" />
 </div>
