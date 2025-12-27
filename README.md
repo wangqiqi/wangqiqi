@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0078D6&center=true&vCenter=true&width=940&lines=👋+Hello,+I'm+wangqiqi;💻+Computer+Vision+Developer+%7C+Python+Expert;🎯+Passionate+about+Tech+Sharing+%26+Innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0078D6&center=true&vCenter=true&width=940&lines=👋+Hello,+I'm+wangqiqi;💻+Computer+Vision+Developer+%7C+Python+Expert;🎯+Tech+Enthusiast+%26+Content+Creator;🚀+Passionate+about+AI+%26+Open+Source" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -17,16 +17,6 @@
 </div>
 
 ---
-
-<div align="center">
-  <h2>🚀 About Me</h2>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=Computer+Vision+Developer;Python+Expert;Tech+Enthusiast+%26+Content+Creator" alt="About Me" />
-</div>
-
-<br>
 
 <div align="center">
   <blockquote>
