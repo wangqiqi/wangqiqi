@@ -17,15 +17,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Update blog posts from CSDN
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://blog.csdn.net/zhoujinwang/rss/list"
-          max_post_count: 5
-
-      - name: Commit and push changes
+      - name: Keep repository active
         run: |
+          # Dummy commit to keep the repository active if no other changes
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
-          git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update blog posts" && git push)
+          # Only create dummy commit if there are no recent commits in the last 60 days
+          if [[ $(git log --since="60 days ago" --oneline | wc -l) -eq 0 ]]; then
+            git commit --allow-empty -m "🤖 Keep repository active (automated)" && git push
+          fi
