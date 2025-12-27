@@ -1,113 +1,424 @@
+---
+<style>
+@media (max-width: 768px) {
+  table {
+    width: 100% !important;
+    display: block !important;
+  }
+  tr {
+    display: block !important;
+    margin-bottom: 10px !important;
+  }
+  td {
+    display: block !important;
+    width: 100% !important;
+    text-align: center !important;
+    padding: 10px !important;
+  }
+  img {
+    max-width: 100% !important;
+    height: auto !important;
+  }
+  .mobile-hide {
+    display: none !important;
+  }
+}
+</style>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=wangqiqi&fontSize=80&fontAlignY=35&animation=fadeIn" />
 </div>
 
-## 👋 Hello, I'm wangqiqi
-Computer Vision Developer | Deep Learning Enthusiast
-
-[![GitHub Followers](https://img.shields.io/github/followers/wangqiqi?label=Followers&style=flat&color=0078D6)](https://github.com/wangqiqi)
-[![GitHub Stars](https://img.shields.io/github/stars/wangqiqi?style=flat&color=0078D6)](https://github.com/wangqiqi?tab=repositories&sort=stargazers)
-![Profile Views](https://komarev.com/ghpvc/?username=wangqiqi&color=0078D6)
-
-> "代码即艺术，编程即创造。"
-
-![Windows](https://img.shields.io/badge/OS-Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![VSCode](https://img.shields.io/badge/Editor-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Docker](https://img.shields.io/badge/Tools-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-## 🔧 Skills
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/-MediaPipe-0F9D58?style=for-the-badge&logo=google&logoColor=white)
-
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-## 📊 GitHub Stats
-
-<div align="left">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=wangqiqi&show_icons=true&theme=radical&hide_rank=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangqiqi&layout=compact&theme=radical" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0078D6&center=true&vCenter=true&width=940&lines=👋+Hello,+I'm+wangqiqi;💻+Computer+Vision+Developer+%7C+Python+Expert;🎯+Passionate+about+Tech+Sharing+%26+Innovation" alt="Typing SVG" />
 </div>
-
-## 📝 Recent Blog Posts
-
-* [【Python-OpenCV】手势控制贪吃蛇](https://blog.csdn.net/zhoujinwang/article/details/146428378)
-* [【python-opencv-mediapipe】眼睛杀死315黑心商家](https://blog.csdn.net/zhoujinwang/article/details/146407083)
-* [【π日庆祝】python mediapipe](https://blog.csdn.net/zhoujinwang/article/details/146267237)
-* [扫描线效果：创建令人惊叹的视频过渡效果](https://blog.csdn.net/zhoujinwang/article/details/146211005)
-* [markdown转docx](https://blog.csdn.net/zhoujinwang/article/details/146189260)
-
-➡️ [More Blog Posts...](https://blog.csdn.net/zhoujinwang)
-
-## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wangqiqi&theme=react-dark" width="100%" alt="Contribution Graph" />
-</div>
-
-## 📱 联系方式
-
-<div align="center">
-<table>
-  <tr align="center">
-    <td>
-      <img src="https://open.weixin.qq.com/zh_CN/htmledition/res/assets/res-design-download/icon64_wx_logo.png" width="40" height="40" alt="WeChat"/><br/>
-      <b>微信</b>
-    </td>
-    <td>
-      <img src="https://www.bilibili.com/favicon.ico" width="40" height="40" alt="Bilibili"/><br/>
-      <b>哔哩哔哩</b>
-    </td>
-    <td>
-      <img src="https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/public/favicon.ico" width="40" height="40" alt="Douyin"/><br/>
-      <b>抖音</b>
-    </td>
-    <td>
-      <img src="https://cdn.brandfetch.io/idvL6iJWSM/w/205/h/96/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" width="40" height="40" alt="Xiaohongshu" style="object-fit: contain;"/><br/>
-      <b>小红书</b>
-    </td>
-    <td>
-      <img src="https://img-home.csdnimg.cn/images/20201124032511.png" width="40" height="40" alt="CSDN"/><br/>
-      <b>CSDN</b>
-    </td>
-  </tr>
-  <tr align="center">
-    <td>
-      <img src="https://github.com/nxu-game/interesting_assets/raw/main/images/wechat.jpg" width="120" alt="WeChat QR Code"/>
-    </td>
-    <td>
-      <img src="https://github.com/nxu-game/interesting_assets/raw/main/images/bilibili.jpg" width="120" alt="Bilibili QR Code"/>
-    </td>
-    <td>
-      <img src="https://github.com/nxu-game/interesting_assets/raw/main/images/douyin.jpg" width="120" alt="Douyin QR Code"/>
-    </td>
-    <td>
-      <img src="https://github.com/nxu-game/interesting_assets/raw/main/images/xiaohongshu.png" width="120" alt="Xiaohongshu QR Code"/>
-    </td>
-    <td>
-      <img src="https://github.com/nxu-game/interesting_assets/raw/main/images/csdn.jpg" width="120" alt="CSDN QR Code"/>
-    </td>
-  </tr>
-</table>
-</div>
-
-<div style="text-align: center; margin-top: 20px;">
   <a href="https://github.com/wangqiqi">
-    <img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub" width="40" height="40"/>
+    <img src="https://img.shields.io/github/followers/wangqiqi?label=Followers&style=flat-square&color=0078D6" alt="GitHub Followers" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:zhou24388@163.com">
-    <img src="https://img.icons8.com/bubbles/50/000000/new-post.png" alt="Email" width="40" height="40"/>
+  <a href="https://github.com/wangqiqi?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/github/stars/wangqiqi?style=flat-square&color=0078D6" alt="GitHub Stars" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=wangqiqi&color=0078D6&style=flat-square&label=Profile%20Views" alt="Profile Views" />
 </div>
+
+<div align="center">
+  <h3><strong>📋 Quick Navigation</strong></h3>
+  <p>
+    <a href="#-github-analytics"><img src="https://img.shields.io/badge/📊_Analytics-FF6B6B?style=flat-square" /></a>
+    <a href="#-about-me"><img src="https://img.shields.io/badge/🚀_About-4ECDC4?style=flat-square" /></a>
+    <a href="#-technical-expertise"><img src="https://img.shields.io/badge/🎯_Skills-FFD93D?style=flat-square" /></a>
+    <a href="#-achievements--highlights"><img src="https://img.shields.io/badge/🏆_Projects-6C5CE7?style=flat-square" /></a>
+    <a href="#-technical-blog--content"><img src="https://img.shields.io/badge/📝_Blog-A855F7?style=flat-square" /></a>
+    <a href="#-connect-with-me"><img src="https://img.shields.io/badge/📱_Connect-EC4899?style=flat-square" /></a>
+  </p>
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wangqiqi&theme=radical&no-frame=true&no-bg=false&row=1&column=7" width="100%" alt="GitHub Trophy" />
+</div>
+
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center"><strong>📈 GitHub Stats</strong></h3>
+        <p align="center">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=wangqiqi&show_icons=true&theme=radical&hide_rank=true&include_all_commits=true" alt="GitHub Stats" />
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center"><strong>🔥 Top Languages</strong></h3>
+        <p align="center">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangqiqi&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <h3><strong>📊 Contribution Activity</strong></h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wangqiqi&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+</div>
+
+---
+
+<div align="center">
+  <h2>🚀 About Me</h2>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=Computer+Vision+Developer;Python+Expert;Tech+Enthusiast+%26+Content+Creator" alt="About Me" />
+</div>
+
+<br>
+
+<div align="center">
+  <blockquote>
+    <p><em>"代码即艺术，编程即创造"</em></p>
+  </blockquote>
+</div>
+
+---
+
+## 🎯 Technical Expertise
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <h3>👁️ Computer Vision</h3>
+        <p>OpenCV, MediaPipe<br>图像处理与识别</p>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+      </td>
+      <td align="center" width="25%">
+        <h3>🤖 Deep Learning</h3>
+        <p>PyTorch, TensorFlow<br>模型训练与部署</p>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+      </td>
+      <td align="center" width="25%">
+        <h3>💻 Full Stack</h3>
+        <p>Python后端<br>前端工程</p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      </td>
+      <td align="center" width="25%">
+        <h3>🚀 DevOps</h3>
+        <p>Docker, 云原生<br>容器化部署</p>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 💻 Core Technologies
+
+<div align="center">
+  <h3><strong>Programming Languages & Frameworks</strong></h3>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  </p>
+  <h3><strong>AI & Computer Vision</strong></h3>
+  <p>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+    <img src="https://img.shields.io/badge/MediaPipe-0F9D58?style=for-the-badge&logo=google&logoColor=white" />
+  </p>
+</div>
+
+---
+
+## 🚀 Technology Interests
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h4>🎯 Most Interested</h4>
+        <ul>
+          <li><strong>Computer Vision</strong> (252+ projects)</li>
+          <li><strong>Machine Learning</strong> (236+ projects)</li>
+        </ul>
+      </td>
+      <td align="center">
+        <h4>🔍 Exploring</h4>
+        <ul>
+          <li><strong>Mobile Development</strong></li>
+          <li><strong>Web Development</strong></li>
+          <li><strong>IoT & Embedded</strong></li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h4>⭐ Starred Projects</h4>
+        <h2>821</h2>
+        <p>广泛的技术视野</p>
+      </td>
+      <td align="center" width="33%">
+        <h4>👥 Following</h4>
+        <h2>295</h2>
+        <p>持续学习优秀项目</p>
+      </td>
+      <td align="center" width="33%">
+        <h4>🏗️ Repositories</h4>
+        <h2>13</h2>
+        <p>原创高质量项目</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🏆 Achievements & Highlights
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🚀 Featured Projects</h3>
+        <div align="center">
+          <a href="#">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangqiqi&repo=repo-name&theme=radical" alt="Featured Project" />
+          </a>
+        </div>
+        <br>
+        <p><em>Computer Vision & AI Projects</em></p>
+      </td>
+      <td align="center" width="50%">
+        <h3>📈 Coding Activity</h3>
+        <div align="center">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=wangqiqi&theme=radical&hide_border=true" alt="GitHub Streak" />
+        </div>
+        <br>
+        <p><em>Consistent coding streak</em></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🛠️ Development Environment
+
+<div align="center">
+  <h3><strong>My Tech Stack</strong></h3>
+  <p>
+    <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  </p>
+</div>
+
+## 📝 Technical Blog & Content
+
+<div align="center">
+  <h3><strong>🎯 Latest Articles</strong></h3>
+
+  <table>
+    <tr>
+      <td>
+        <a href="https://blog.csdn.net/zhoujinwang/article/details/146428378">
+          <img src="https://img.shields.io/badge/🎮_手势控制贪吃蛇_OpenCV游戏开发-FF6B6B?style=for-the-badge&logo=game&logoColor=white" />
+        </a>
+      </td>
+      <td>
+        <a href="https://blog.csdn.net/zhoujinwang/article/details/146407083">
+          <img src="https://img.shields.io/badge/👁️_眼睛检测技术_MediaPipe应用-4ECDC4?style=for-the-badge&logo=eye&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://blog.csdn.net/zhoujinwang/article/details/146267237">
+          <img src="https://img.shields.io/badge/🥧_π日庆祝活动_Python创意编程-FFD93D?style=for-the-badge&logo=pi&logoColor=black" />
+        </a>
+      </td>
+      <td>
+        <a href="https://blog.csdn.net/zhoujinwang/article/details/146211005">
+          <img src="https://img.shields.io/badge/🎬_视频特效制作_OpenCV图像处理-6C5CE7?style=for-the-badge&logo=video&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <h3><strong>📊 Content Platforms</strong></h3>
+  <p>
+    <img src="https://img.shields.io/badge/CSDN-博客平台-FC5531?style=for-the-badge&logo=csdn&logoColor=white" />
+    <img src="https://img.shields.io/badge/微信公众号-技术分享-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
+    <img src="https://img.shields.io/badge/哔哩哔哩-视频教程-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" />
+  </p>
+
+  <div align="center">
+    <a href="https://blog.csdn.net/zhoujinwang">
+      <img src="https://img.shields.io/badge/📚_View_All_Articles_→-0078D4?style=for-the-badge&logo=book&logoColor=white" />
+    </a>
+  </div>
+</div>
+
+---
+
+## 📱 Connect With Me
+
+<div align="center">
+  <h3><strong>🌐 Social Platforms</strong></h3>
+
+  <table>
+    <tr>
+      <td align="center" width="20%">
+        <a href="#" title="WeChat">
+          <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
+        </a>
+        <br>
+        <img src="https://github.com/nxu-game/interesting_assets/raw/main/images/wechat.jpg" width="80" alt="WeChat QR"/>
+      </td>
+      <td align="center" width="20%">
+        <a href="#" title="Bilibili">
+          <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" />
+        </a>
+        <br>
+        <img src="https://github.com/nxu-game/interesting_assets/raw/main/images/bilibili.jpg" width="80" alt="Bilibili QR"/>
+      </td>
+      <td align="center" width="20%">
+        <a href="#" title="Douyin">
+          <img src="https://img.shields.io/badge/Douyin-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+        </a>
+        <br>
+        <img src="https://github.com/nxu-game/interesting_assets/raw/main/images/douyin.jpg" width="80" alt="Douyin QR"/>
+      </td>
+      <td align="center" width="20%">
+        <a href="#" title="Xiaohongshu">
+          <img src="https://img.shields.io/badge/Xiaohongshu-FF2442?style=for-the-badge&logo=instagram&logoColor=white" />
+        </a>
+        <br>
+        <img src="https://github.com/nxu-game/interesting_assets/raw/main/images/xiaohongshu.png" width="80" alt="Xiaohongshu QR"/>
+      </td>
+      <td align="center" width="20%">
+        <a href="#" title="CSDN">
+          <img src="https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=csdn&logoColor=white" />
+        </a>
+        <br>
+        <img src="https://github.com/nxu-game/interesting_assets/raw/main/images/csdn.jpg" width="80" alt="CSDN QR"/>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <h3><strong>💼 Professional Links</strong></h3>
+  <p>
+    <a href="https://github.com/wangqiqi">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="mailto:zhou24388@163.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+</div>
+
+---
+
+## 🌟 Fun Facts & Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <h4>☕ Coding Hours</h4>
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wangqiqi&layout=compact&theme=radical" alt="Wakatime stats" />
+      </td>
+      <td align="center" width="25%">
+        <h4>🎯 Focus Areas</h4>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangqiqi&layout=compact&theme=radical&langs_count=6&hide=html,css" alt="Most Used Languages" />
+      </td>
+      <td align="center" width="25%">
+        <h4>🔥 Contribution Streak</h4>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=wangqiqi&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+      </td>
+      <td align="center" width="25%">
+        <h4>📈 Productivity</h4>
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wangqiqi&layout=compact&theme=radical" alt="Productivity Stats" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <h3><strong>🎮 Random Dev Quote</strong></h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
+---
+
+<div align="center">
+  <h3><strong>⭐ Thanks for visiting my profile!</strong></h3>
+  <p><em>Feel free to reach out for collaborations or discussions about computer vision, AI, and software development.</em></p>
+
+  <h4><strong>🚀 Let's build something amazing together!</strong></h4>
+
+  <br>
+
+  <h4><strong>💝 Support My Work</strong></h4>
+  <p>
+    <a href="https://www.buymeacoffee.com/wangqiqi">
+      <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+    </a>
+    <a href="https://github.com/sponsors/wangqiqi">
+      <img src="https://img.shields.io/badge/GitHub_Sponsors-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Sponsors" />
+    </a>
+  </p>
+</div>
+
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
