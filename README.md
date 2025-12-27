@@ -16,53 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=wangqiqi&color=0078D6&style=flat-square&label=Profile%20Views" alt="Profile Views" />
 </div>
 
-<div align="center">
-  <h3><strong>📋 Quick Navigation</strong></h3>
-  <p>
-    <a href="#-github-analytics"><img src="https://img.shields.io/badge/📊_Analytics-FF6B6B?style=flat-square" /></a>
-    <a href="#-about-me"><img src="https://img.shields.io/badge/🚀_About-4ECDC4?style=flat-square" /></a>
-    <a href="#-technical-expertise"><img src="https://img.shields.io/badge/🎯_Skills-FFD93D?style=flat-square" /></a>
-    <a href="#-achievements--highlights"><img src="https://img.shields.io/badge/🏆_Projects-6C5CE7?style=flat-square" /></a>
-    <a href="#-connect-with-me"><img src="https://img.shields.io/badge/📱_Connect-EC4899?style=flat-square" /></a>
-  </p>
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wangqiqi&theme=radical&no-frame=true&no-bg=false&row=1&column=7" width="100%" alt="GitHub Trophy" />
-</div>
-
-<br>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center"><strong>📈 GitHub Stats</strong></h3>
-        <p align="center">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=wangqiqi&show_icons=true&theme=radical&hide_rank=true&include_all_commits=true" alt="GitHub Stats" />
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center"><strong>🔥 Top Languages</strong></h3>
-        <p align="center">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangqiqi&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<div align="center">
-  <h3><strong>📊 Contribution Activity</strong></h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wangqiqi&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
-</div>
-
 ---
 
 <div align="center">
