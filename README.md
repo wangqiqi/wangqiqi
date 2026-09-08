@@ -19,6 +19,9 @@
 </div>
 
 <div align="center">
+  <a href="https://wangqiqi.github.io/lanpm/">
+    <img src="https://img.shields.io/badge/LanPM-局域网协作桌面-00A1D6?style=for-the-badge&logo=electron&logoColor=white" alt="LanPM 项目主页" />
+  </a>
   <a href="https://znza.top">
     <img src="https://img.shields.io/badge/技术博客-老周有AI-0078D6?style=for-the-badge&logo=readthedocs&logoColor=white" alt="老周有AI 技术博客" />
   </a>
