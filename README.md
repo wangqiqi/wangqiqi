@@ -9,7 +9,7 @@
   <br>
   <h3><strong>🚀 一起做点有意思的开源</strong></h3>
   <br>
-  <p>计算机视觉 · AI 工具链 · 开发者效率 · 欢迎 Star / Issue / PR</p>
+  <p>计算机视觉 · AI 工具链 · 局域网协作 · 欢迎 Star / Issue / PR</p>
   <br>
 </div>
 
@@ -43,6 +43,7 @@
 
 | 项目 | 简介 | Stars |
 | --- | --- | ---: |
+| [**LanPM**](https://github.com/wangqiqi/lanpm) · [主页](https://wangqiqi.github.io/lanpm/) | 局域网 P2P 协作桌面：IM + 看板/甘特/白板，数据留在本地 | ![stars](https://img.shields.io/github/stars/wangqiqi/lanpm?style=flat-square) |
 | [md2docx](https://github.com/wangqiqi/md2docx) | Markdown 转 DOCX，支持 Mermaid / LaTeX / 批量转换 | ![stars](https://img.shields.io/github/stars/wangqiqi/md2docx?style=flat-square) |
 | [trae-ai](https://github.com/wangqiqi/trae-ai) | 一个命令启用多 AI 专家协作，Trae IDE 复制即用 | ![stars](https://img.shields.io/github/stars/wangqiqi/trae-ai?style=flat-square) |
 | [cursor-ai-rules](https://github.com/wangqiqi/cursor-ai-rules) | 宪法驱动的 Cursor 协作规则系统 | ![stars](https://img.shields.io/github/stars/wangqiqi/cursor-ai-rules?style=flat-square) |
@@ -63,6 +64,7 @@
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
     <img src="https://img.shields.io/badge/VitePress-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="VitePress" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/AI_协作-Cursor_Rules-000000?style=for-the-badge" alt="Cursor Rules" />
@@ -76,7 +78,7 @@
         <h4>🎯 专注方向</h4>
         <ul align="left">
           <li><strong>计算机视觉</strong> — OpenCV · MediaPipe · YOLO · RK3588 边缘部署</li>
-          <li><strong>开源工具</strong> — 文档转换 · 热榜抓取 · 教程与示例仓库</li>
+          <li><strong>开源工具</strong> — 文档转换 · 热榜抓取 · <a href="https://wangqiqi.github.io/lanpm/">LanPM</a> 局域网协作</li>
           <li><strong>AI 协作</strong> — Cursor / Trae 规则与工作流脚手架</li>
         </ul>
       </td>
@@ -129,6 +131,9 @@
 
   <h3><strong>🔗 常用链接</strong></h3>
   <p>
+    <a href="https://wangqiqi.github.io/lanpm/">
+      <img src="https://img.shields.io/badge/LanPM-项目主页-00A1D6?style=for-the-badge&logo=electron&logoColor=white" alt="LanPM" />
+    </a>
     <a href="https://znza.top">
       <img src="https://img.shields.io/badge/博客-znza.top-0078D6?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="技术博客" />
     </a>
